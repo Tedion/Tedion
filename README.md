@@ -31,8 +31,7 @@
 **Virtualization & Hypervisors:**
 <p align="left">
 <img src="https://cdn.simpleicons.org/vmware" alt="vmware" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/proxmox" alt="proxmox" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/xen" alt="xcp-ng" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/58804200?s=200&v=4" alt="xcp-ng" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/openstack" alt="openstack" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/redhat" alt="redhat" width="40" height="40"/>
 </p>
@@ -43,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/rancher" alt="rancher" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/redhatopenshift" alt="openshift" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/harvester" alt="harvester" width="40" height="40"/>
+<img src="https://techicons.dev/icons/harvester.svg" alt="harvester" width="40" height="40"/>
 </p>
 
 **Infrastructure as Code:**
